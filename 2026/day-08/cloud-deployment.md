@@ -117,5 +117,8 @@ Deploying applications on cloud servers is a routine task for DevOps engineers. 
 - Nginx welcome page displayed in the browser
   <img width="1920" height="1080" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/0fed50d8-27cd-486f-9008-9db13a149ca1" />
 <img width="1920" height="1021" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/cb812829-2801-4b30-838b-a72a5b1da5b4" />
+<img width="1920" height="877" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/7887601f-74f0-4ed8-a27d-77f861143e8c" />
+<img width="1920" height="976" alt="Screenshot (282)" src="https://github.com/user-attachments/assets/61dd921d-f856-4236-9f9d-0a441611eab1" />
+
 <img width="1920" height="990" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/bcf4d038-3ef2-40c3-8287-d2ab95e419ba" />
 <img width="1920" height="877" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/5ceae172-0381-4d75-9701-9c8e29967b8f" />
